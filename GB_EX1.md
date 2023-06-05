@@ -35,8 +35,7 @@ run the following commands to set the user name and email address:
 
 5. The output should look similar to below:
 
-        ```
-        PS C:\> git config --list
+        ```PS C:\> git config --list
         diff.astextplain.textconv=astextplain
         filter.lfs.clean=git-lfs clean -- %f
         filter.lfs.smudge=git-lfs smudge -- %f
@@ -58,8 +57,7 @@ run the following commands to set the user name and email address:
         filter.lfs.required=true
         user.name=Peter De Tender
         user.email=petender@microsoft.com
-        PS C:\>
-        ```
+        PS C:\>```
 
 ### Create your first Git Repository
 
